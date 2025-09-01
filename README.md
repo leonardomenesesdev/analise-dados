@@ -13,5 +13,3 @@
 8.  **Taxa de Rotatividade (Turnover):** Calcular a taxa de rotatividade de funcionários, analisando as datas de admissão e demissão para avaliar a retenção de talentos.
 9.  **Investimento em Capacitação por Área:** Analisar o total de horas de capacitação por área da empresa para entender como o investimento em treinamento está sendo distribuído entre as equipes.
 10. **Engajamento dos Colaboradores:** Avaliar a participação dos colaboradores na Pesquisa de Clima Organizacional como um indicador do nível de engajamento da equipe.
-
-Qual destas análises você gostaria que eu realizasse primeiro?
